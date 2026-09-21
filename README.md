@@ -1,1 +1,1 @@
-# java-maven-app
+# Test Auto Trigger # java-maven-app
